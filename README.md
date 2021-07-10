@@ -8,4 +8,5 @@ Section 3: Training
 Section 4 : Testing
 
 for your reference:
-https://colab.research.google.com/drive/1shDhh4wZkxE4MWZB7ZopSBhR753CwNb5
+
+https://colab.research.google.com/drive/1shDhh4wZkxE4MWZB7ZopSBhR753CwNb5?usp=sharing
