@@ -1,7 +1,8 @@
 # Handwritten-Recogniser-using-SKLearn
+#typical machine learning algorithm…
+
 
 The scope of this Project is to understand what are the four common sections in a typical machine learning algorithm…
-
 Section 1 : Importing Libraries
 Section 2 : Dataset manipulation
 Section 3: Training 
